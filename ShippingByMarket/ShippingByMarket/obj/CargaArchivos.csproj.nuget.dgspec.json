@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ANTONIO\\Documents\\Trabajo\\Mis Proyectos\\CargaArchivos\\CargaArchivos\\CargaArchivos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ANTONIO\\Documents\\Trabajo\\Mis Proyectos\\CargaArchivos\\CargaArchivos\\CargaArchivos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ANTONIO\\Documents\\Trabajo\\Mis Proyectos\\CargaArchivos\\CargaArchivos\\CargaArchivos.csproj",
+        "projectName": "CargaArchivos",
+        "projectPath": "C:\\Users\\ANTONIO\\Documents\\Trabajo\\Mis Proyectos\\CargaArchivos\\CargaArchivos\\CargaArchivos.csproj",
+        "packagesPath": "C:\\Users\\ANTONIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ANTONIO\\Documents\\Trabajo\\Mis Proyectos\\CargaArchivos\\CargaArchivos\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ANTONIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.94.2, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
